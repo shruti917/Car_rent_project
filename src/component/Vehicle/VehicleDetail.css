@@ -1,0 +1,26 @@
+.vehicle-detail {
+    padding: 20px;
+  }
+  
+  .vehicle-detail h1 {
+    margin-bottom: 10px;
+  }
+  
+  .vehicle-detail p {
+    margin: 5px 0;
+  }
+  
+  .vehicle-detail a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+  
+  .vehicle-detail a:hover {
+    background-color: #0056b3;
+  }
+  

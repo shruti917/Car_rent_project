@@ -1,0 +1,20 @@
+.booking-history {
+    padding: 20px;
+  }
+  
+  .booking-history ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .booking-history li {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .booking-history li p {
+    margin: 5px 0;
+  }
+  
